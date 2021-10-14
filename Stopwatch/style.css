@@ -1,0 +1,60 @@
+body {
+    background-color:  rgb(22, 185, 226);
+    background: linear-gradient(90deg, rgb(95, 190, 225), rgb(16, 141, 224));
+  }
+
+
+#container{ 
+    font: 62.5%/1.5  "Lucida Grande", "Lucida Sans", Tahoma, Verdana, sans-serif; 
+     
+    text-align:center; 
+} 
+
+h1{
+    font-size: 4rem;
+}
+h2{
+    font-size: 4rem;
+}
+
+#start{
+   background-color: rgb(158, 224, 58);    
+   border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 5px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+#stop{
+    background-color: rgb(224, 97, 58);    
+    border: none;
+     color: rgb(254, 254, 254);
+     padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     margin: 4px 5px;
+     cursor: pointer;
+     border-radius: 10px;
+ }
+
+ #reset{
+    background-color: rgb(240, 232, 21);    
+    border: none;
+     color: rgb(0, 0, 0);
+     padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     margin: 4px 5px;
+     cursor: pointer;
+     border-radius: 10px;
+ }
